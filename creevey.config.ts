@@ -18,6 +18,12 @@ const config: CreeveyConfig = {
       browserName: 'firefox',
       viewport: { width: 1024, height: 720 },
     },
+    // safari: {
+    //   browserName: 'safari',
+    //   viewport: { width: 1024, height: 720 },
+    //   gridUrl: 'http://10.33.95.11:4444/wd/hub',
+    //   storybookUrl: 'http://10.4.24.26:6006',
+    // },
   },
 };
 
